@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1481023873 source:d:\h\codeblocks\ctest\main.c
+	<stdlib.h>
+	<winsock2.h>
+	<stdio.h>
+
+1481025389 source:d:\f(data)\f\unversity\subjects\网络程序设计\网络程序设计实验\练习代码\windows-linux\ctest\main.c
+	<stdlib.h>
+	<winsock2.h>
+	<stdio.h>
+
+1481630744 source:d:\f(data)\f\unversity\subjects\网络程序设计\网络程序设计实验\练习代码\multcp\ctest\main.c
+	<stdlib.h>
+	<winsock2.h>
+	<stdio.h>
+
